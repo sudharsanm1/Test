@@ -1,5 +1,0 @@
-Test file
-line2
-
-added second change
-Added this change after adding to remote
