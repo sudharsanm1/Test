@@ -1,0 +1,20 @@
+How to Add files to GitHUB
+
+1. Create new repository from Github, web portal
+2. Create repository in local
+
+git init
+git commit -m "first commit"
+git branch -M master
+
+For Pending files to commit type - git status
+
+3. To add file to GitHub set the URL
+
+git remote set-url orgin <URL>
+git push -u origin master
+
+
+Other commands 
+$ git credential-manager uninstall
+$ git credential-manager install
